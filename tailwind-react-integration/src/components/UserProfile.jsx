@@ -1,4 +1,4 @@
-import image from '../assets/download.jpg'; // Ensure the image path is correct
+import image from '../assets/download.jpg'; 
 
 function UserProfile() {
   return (
